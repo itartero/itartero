@@ -23,14 +23,12 @@ Entiendo el modelo de negocio que hay detrás de los datos para impulsar decisio
 
 ### 📂 Proyectos Destacados
 
-#### 1. 🏭 [Ecosistema de Gestión de Taller (AppSheet)](#)
-*En desarrollo para el portfolio*
+#### 1. 🏭 [Ecosistema de Gestión de Taller (AppSheet)](https://github.com/itartero/ecosistema-appsheet-taller)
 * **Objetivo:** Digitalizar y centralizar la operativa de tratamiento de producto y control de stock.
 * **Impacto:** Incremento del 163% en la productividad del registro de productos y reducción del 90% en tiempos de localización de inventario.
 * **Tecnologías:** AppSheet, Google Workspace, Estructuración de Bases de Datos.
 
-#### 2. 📊 [Dashboards de Inteligencia de Negocio y KPIs](#)
-*En desarrollo para el portfolio*
+#### 2. 📊 [Dashboards de Inteligencia de Negocio y KPIs](https://github.com/itartero/bi-dashboard-impacto-economico)
 * **Objetivo:** Monitorización en tiempo real de Tiempos Teóricos (TT) y niveles de empleabilidad del equipo.
 * **Impacto:** Facilitar la toma de decisiones basada en datos para la gestión logística y operativa.
 * **Tecnologías:** Looker Studio, Tableau.
