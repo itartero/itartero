@@ -2,7 +2,7 @@
 
 ### Data Analyst & Operational Efficiency Specialist 🚀
 
-Soy un profesional híbrido especializado en **Eficiencia Operativa y Análisis de Datos**. Mi pasión es transformar procesos manuales complejos en soluciones digitales ágiles y escalables utilizando herramientas No-Code, Inteligencia Artificial y análisis de datos. 
+Soy un profesional híbrido especializado en **Eficiencia Operativa y Análisis de Datos**. Mi pasión es transformar procesos manuales complejos en soluciones digitales ágiles y escalables utilizando **programación, herramientas No-Code, Inteligencia Artificial y análisis de datos**.
 
 Entiendo el modelo de negocio que hay detrás de los datos para impulsar decisiones estratégicas reales y cuantificables.
 
@@ -11,6 +11,7 @@ Entiendo el modelo de negocio que hay detrás de los datos para impulsar decisio
 ### 🛠️ Tech Stack & Herramientas
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
@@ -24,14 +25,24 @@ Entiendo el modelo de negocio que hay detrás de los datos para impulsar decisio
 ### 📂 Proyectos Destacados
 
 #### 1. 🏭 [Ecosistema de Gestión de Taller (AppSheet)](https://github.com/itartero/ecosistema-appsheet-taller)
+
 * **Objetivo:** Digitalizar y centralizar la operativa de tratamiento de producto y control de stock.
 * **Impacto:** Incremento del 163% en la productividad del registro de productos y reducción del 90% en tiempos de localización de inventario.
 * **Tecnologías:** AppSheet, Google Workspace, Estructuración de Bases de Datos.
 
 #### 2. 📊 [Dashboards de Inteligencia de Negocio y KPIs](https://github.com/itartero/bi-dashboard-impacto-economico)
+
 * **Objetivo:** Monitorización en tiempo real de Tiempos Teóricos (TT) y niveles de empleabilidad del equipo.
 * **Impacto:** Facilitar la toma de decisiones basada en datos para la gestión logística y operativa.
 * **Tecnologías:** Looker Studio, Tableau.
+
+---
+
+### 🐍 Aprendiendo Python
+
+Actualmente estoy desarrollando mis conocimientos de **Python** orientados principalmente al análisis de datos, automatización y resolución de problemas.
+
+En este repositorio estoy recopilando ejercicios y pequeños proyectos prácticos para consolidar conceptos de programación y desarrollar progresivamente soluciones más complejas.
 
 ---
 
