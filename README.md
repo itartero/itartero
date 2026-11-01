@@ -2,47 +2,48 @@
 
 ### Data Analyst & Operational Efficiency Specialist 🚀
 
-Soy un profesional híbrido especializado en **Eficiencia Operativa y Análisis de Datos**. Mi pasión es transformar procesos manuales complejos en soluciones digitales ágiles y escalables utilizando **programación, herramientas No-Code, Inteligencia Artificial y análisis de datos**.
+Soy un profesional híbrido especializado en **Eficiencia Operativa, Analítica de Datos y Automatización**. Mi foco es transformar flujos de trabajo manuales e ineficientes en ecosistemas digitales escalables combinando programación, arquitecturas de datos, herramientas Low-Code/No-Code e Inteligencia Artificial.
 
-Entiendo el modelo de negocio que hay detrás de los datos para impulsar decisiones estratégicas reales y cuantificables.
+Actualmente curso el **Máster en Data Science, Big Data & Business Analytics** (Universidad Complutense de Madrid / NTIC Master), profundizando en pipelines de datos, machine learning y flujos colaborativos de software.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Ecosistema de Trabajo
 
+#### Datos, Cloud & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</p>
+
+#### BI, Reportes & Soluciones Operativas
+<p align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/AppSheet-34A853?style=for-the-badge&logo=google&logoColor=white" alt="AppSheet" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
----
-
-### 📂 Proyectos Destacados
-
-#### 1. 🏭 [Ecosistema de Gestión de Taller (AppSheet)](https://github.com/itartero/ecosistema-appsheet-taller)
-
-* **Objetivo:** Digitalizar y centralizar la operativa de tratamiento de producto y control de stock.
-* **Impacto:** Incremento del 163% en la productividad del registro de productos y reducción del 90% en tiempos de localización de inventario.
-* **Tecnologías:** AppSheet, Google Workspace, Estructuración de Bases de Datos.
-
-#### 2. 📊 [Dashboards de Inteligencia de Negocio y KPIs](https://github.com/itartero/bi-dashboard-impacto-economico)
-
-* **Objetivo:** Monitorización en tiempo real de Tiempos Teóricos (TT) y niveles de empleabilidad del equipo.
-* **Impacto:** Facilitar la toma de decisiones basada en datos para la gestión logística y operativa.
-* **Tecnologías:** Looker Studio, Tableau.
+#### Entornos, Control de Versiones & IA Productiva
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Cloud_Shell-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Shell" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
+</p>
 
 ---
 
-### 🐍 Aprendiendo Python
+### 🎓 Enfoque y Aprendizaje Continuo
 
-Actualmente estoy desarrollando mis conocimientos de **Python** orientados principalmente al análisis de datos, automatización y resolución de problemas.
-
-En este repositorio estoy recopilando ejercicios y pequeños proyectos prácticos para consolidar conceptos de programación y desarrollar progresivamente soluciones más complejas.
+* 📚 Cursando activamente el **Máster en Data Science, Big Data & Business Analytics**.
+* ⚙️ Buenas prácticas de desarrollo: control de versiones riguroso con Git/GitHub, modularización de código en Python y documentación reproducible.
+* 🤖 Exploración de IA aplicada a la automatización de procesos operativos y análisis de texto.
 
 ---
 
