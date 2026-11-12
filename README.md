@@ -41,7 +41,7 @@ Actualmente curso el **Máster en Data Science, Big Data & Business Analytics** 
 
 ### 🎓 Enfoque y Aprendizaje Continuo
 
-* 📚 Cursando activamente el **Máster en Data Science, Big Data & Business Analytics**.
+* 📚 Cursando **Máster en Data Science, Big Data & Business Analytics**.
 * ⚙️ Buenas prácticas de desarrollo: control de versiones riguroso con Git/GitHub, modularización de código en Python y documentación reproducible.
 * 🤖 Exploración de IA aplicada a la automatización de procesos operativos y análisis de texto.
 
